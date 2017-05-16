@@ -14,6 +14,7 @@ Christopher Manning.
 - [nngraph](https://github.com/torch/nngraph)
 - [optim](https://github.com/torch/optim)
 - Java >= 8 (for Stanford CoreNLP utilities)
+sudo apt-get install openjdk-7-jdk
 - Python >= 2.7
 
 The Torch/Lua dependencies can be installed using [luarocks](http://luarocks.org). For example:
